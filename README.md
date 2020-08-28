@@ -18,7 +18,7 @@ There are a lot of drawbacks in keeping and maintaining a hostel. Especially wit
 * Booking Options for various types of rooms
 * Updating the information
 
-<h1 id="top" align="center"> <img src="img/room.png"  width="100%" height="100%"></h1>
+<h1 id="top" align="center"> <img src="img/book1.png"  width="100%" height="100%"></h1>
 
 
 [BACK TO TOP ↑](#top)
