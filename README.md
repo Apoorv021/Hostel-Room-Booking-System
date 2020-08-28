@@ -3,10 +3,10 @@
 
 ## Project Description 
 
-This project also keeps details of thehostellers and applied students. The Online Hostel seat Booking System helps in booking the seats in the hostels. It will simplify the work of the institutions in getting the seats booked in the hostels with great ease.
+The Online Hostel seat Booking System helps in booking the seats in the hostels. This also helps in keeping details of the hostellers and applied students. It will simplify the work of the institutions in getting the seats booked in the hostels with great ease.
 This system is designed to support the hostel management which helps them to save the records of the students about their rooms and vacant rooms in the hostel.
 ## Advantages 
-* **Automation** - It save them from the tons of manual work from which it is very difficult to find the record of the students and the information of about the those who had left the hostel years ago.
+* **Automation** - It saves them from the tons of manual work from which it is very difficult to find the record of the students and the information of about the those who had left the hostel years ago.
 * **Well-Organized** - This will help in maintaining the seats present in the hostels in a well organized way. 
 * **Transparency** - The system maintains Transparency between the students and the college.
 
